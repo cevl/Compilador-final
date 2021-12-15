@@ -1,0 +1,10 @@
+El lenguaje que se usa son las matemáticas! sin embargo todavía hay limitaciones en el proyecto debido a la complejidad de estas.
+Actualmente el lenguaje se usa de las siguiente forma:
+  Variable asignación expresión
+Una expresión puede estar compuesta así: 
+  Expresión operador numero
+  Función expresión
+  Numero
+
+Se utilizan simbolos unicodes para muchos operadores matematicos como se puede ver en esta pagina:
+https://en.wikipedia.org/wiki/Mathematical_operators_and_symbols_in_Unicode
